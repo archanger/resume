@@ -2,7 +2,7 @@
 
 +37253915891 | chuyanov.k@gmail.com
 
-In IT since 2006(first dive). My route was step by step - I tried to code something with Delphi, followed the C language, and later discovered PHP. Finding my first job as a PHP developer was challenging due to a lack of experience. I continued to study C/C++ and got a job in Performance Lab as a Test-Engineer. In this position, I gained experience in Java and applied C knowledge. At some point, I became aware of iOS and decided to try this platform. After three months, I changed jobs and positions to an iOS developer. At the moment, I have about 10+ years of experience in iOS application development. During this time, I studied a lot of modern technologies and learned development approaches. Interested in cross-platform development and especially in Flutter, following trends in web development, have experience in TypeScript and React.
+In IT since 2006(first dive). My route was step by step - I tried to code something with Delphi, followed the C language, and later discovered PHP. Finding my first job as a PHP developer was challenging due to a lack of experience. I continued to study C/C++ and got a job in Performance Lab as a Test-Engineer. In this position, I gained experience in Java and applied C knowledge. At some point, I became aware of iOS and decided to try this platform. After three months, I changed jobs and positions to an iOS developer. At the moment, I have about 10+ years of experience in iOS application development. During this time, I studied a lot of modern technologies and learned development approaches. Interested in cross-platform development and especially in Flutter, following trends in web development, and have experience in TypeScript and React.
 
 ## Work Experience
 
@@ -63,4 +63,5 @@ Main techs:
 Other techs I am familiar with:
 
 - Flutter
+- Node.js
 - JS/TS
