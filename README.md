@@ -6,7 +6,7 @@ In IT since 2006(first dive). My route was step by step - I tried to code someth
 
 ## Work Experience
 
-### XYB Ltd | 2024-Present| Software Engineer
+### XYB Ltd | 2024-Present| Senior Software Engineer
 
 Mostly been involved in iOS development. Among app support, developed several initiatives on infrastructure improvement for both iOS and Android apps. Developed several internal CLI tools in TypeScript and later gave it a try with web development with React.
 
