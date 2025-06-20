@@ -8,36 +8,49 @@ In IT since 2006(first dive). My route was step by step - I tried to code someth
 
 ### XYB Ltd | 2024-Present| Senior Software Engineer
 
-Mostly been involved in iOS development. Among app support, developed several initiatives on infrastructure improvement for both iOS and Android apps. Developed several internal CLI tools in TypeScript and later gave it a try with web development with React.
+I primarily contributed to the iOS codebase, focusing on transforming the existing app into a white-label product. As part of this effort, I introduced two key concepts:
+Backend-driven UI, allowing dynamic rendering of views based on server responses.
+A single source of truth for translations shared across both iOS and Android.
+
+To support a scalable white-label strategy, I built a Figma plugin to export design tokens and a corresponding import tool for each platform. Later, I developed a CLI tool, integrated into the CI/CD pipeline, that automated the recoloring and reshaping of images and assets. This required close collaboration with designers to capture the full complexity of the design system and address platform-specific constraints.
+
+Following that, I transitioned into web development with React and Module Federation. I built several micro-frontends and introduced many reusable shared components to streamline team development.
 
 ### Bolt | 2019-2024 | Senior iOS Developer
 
-I've been involved in many sub-projects focused on the main app improvements since the first day. From very crucial ones - like an introduction to unit tests - to the most detached from coding itself - setting up the interviewing pipeline for mobile developers and close work with HR department.
+From day one, I’ve been deeply involved in various sub-projects aimed at improving the core app. These range from highly technical initiatives, like introducing unit testing, to broader organizational contributions, such as designing the mobile interview pipeline in collaboration with HR.
 
-Besides that, I implemented 100+ features - from global screen re-design to the most unnoticeable UX improvements.
+I’ve also delivered over 100 features—from complete screen redesigns to subtle UX enhancements that often go unnoticed but significantly improve the user experience.
 
-In a bit more detail:
-* very proud of mentoring many developers and getting only positive feedback, seeing how they grow
-* set up CI/CD with GitHub Actions as the core; collaboration with sibling teams was required.
-* raised the app stability by incorporating a culture of unit tests, and later guided the introduction to snapshot tests 
-* always share my knowledge through meetups and code reviews
-* developed many design docs and RFCs describing further app improvements alongside future implementations
-* built a hiring team of iOS engineers, developed a set of standard questions, and a live-coding task
+A few highlights:
+- **Mentorship**: I’ve mentored many developers, consistently receiving positive feedback and watching them grow into stronger engineers.
+- **CI/CD Setup**: Established CI/CD using GitHub Actions, coordinating closely with sibling teams to align on shared workflows.
+- **Testing Culture**: Raised app stability by introducing a unit testing culture and later guided the adoption of snapshot tests.
+- **Knowledge Sharing**: Regularly contribute to team growth through internal meetups, technical talks, and thorough code reviews.
+- **Technical Documentation**: Authored numerous design documents and RFCs to drive forward-thinking architecture and implementation strategies.
+- **Hiring Process**: Built the iOS hiring team from scratch, defined a consistent interview process, created a shared question bank, and designed a live-coding task.
 
 ### Alfa-Bank | 2018-2019 | Senior iOS Developer
 
-Part of the Business App team
-First experience in fixing/setup/improving CI/CD and had first inner presentation
+I worked on a B2B iOS application as part of an Agile team, where I experienced Scrum in practice and completed several training sessions. The team was cross-functional, and I collaborated closely with business analysts, designers, backend developers, and fellow iOS engineers.
+
+I was fortunate to work alongside experienced developers who supported me as I ramped up. We rewrote parts of the legacy Objective-C codebase into Swift and made Swift the standard for all new features.
+
+Beyond feature work, I contributed to a company-wide initiative to improve CI/CD and DevOps practices across mobile teams. I learned a lot through collaboration with more senior engineers from other teams.
 
 ### Lazada Group | 2017-2018 | iOS Developer
 
-Involved in a project that moved the features to Alibaba technologies/approaches
-Contributed to the success of the project until the Moscow office was closed
+This was my first international experience, working alongside developers from diverse countries and backgrounds. I was part of the team responsible for the product list, a high-traffic area that many other domains relied on to display their content and ads, so cross-team collaboration quickly became a key part of my daily work.
+
+Later, I joined a major project to integrate Alibaba’s technology stack into our app. This involved a complete rewrite of the application using a mix of existing and newly developed components—all in Objective-C. I was specifically responsible for rebuilding the product list and search functionality.
+
+It was an invaluable experience that exposed me to a large-scale codebase and taught me how to write performant, maintainable iOS code in a complex ecosystem.
 
 ### Appreal LLC | 2013-2017 | iOS Developer
 
-Worked on various projects, including the main app developed over two years
-Gained extensive experience in iOS development
+I began my iOS career at this company, where we built mobile applications for various clients. While the initial focus was on iOS development, the team later expanded to include Android and backend developers, allowing us to shift our focus toward developing our travel-focused product.
+
+As it was the start of my journey, I learned a great deal. I encountered my first real technical challenges—most notably the migration from iOS 6 to iOS 7, which introduced significant changes to both the UI and the platform.
 
 ### Load Testing Engineer
 
@@ -53,15 +66,16 @@ Languages I speak:
 
 - Russian (native)
 - English (fluent)
+- Estonina (B1)
 
 Main techs:
 
 - Swift/ObjC
 - GitHub Actions
 - iOS SDK
+- Node.js/TS/JS/React
 
 Other techs I am familiar with:
 
 - Flutter
-- Node.js
-- JS/TS
+- React Native
